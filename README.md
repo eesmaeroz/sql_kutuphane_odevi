@@ -1,0 +1,1 @@
+# sql_kutuphane_odevi
